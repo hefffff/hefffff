@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 I'm Hefffff! but not really since they already got my favorite username 😄
 
 
-🌱 I am currently learning github and how to use it.
+🌱 I am currently learning github, python and data analysis.
